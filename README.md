@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://vladmihalcea.com"><img src="https://img.shields.io/badge/Blog-vladmihalcea.com-blue?style=flat-square" alt="Blog"></a>
-  <a href="https://twitter.com/vlad_mihalcea"><img src="https://img.shields.io/badge/Twitter-@vlad__mihalcea-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://x.com/vlad_mihalcea"><img src="https://img.shields.io/badge/X-@vlad__mihalcea-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="X"></a>
   <a href="https://www.linkedin.com/in/vladmihalcea/"><img src="https://img.shields.io/badge/LinkedIn-vladmihalcea-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://stackoverflow.com/users/1025118/vlad-mihalcea"><img src="https://img.shields.io/badge/StackOverflow-100k+-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="StackOverflow"></a>
   <a href="https://www.youtube.com/@vladmihalcea"><img src="https://img.shields.io/badge/YouTube-vladmihalcea-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
