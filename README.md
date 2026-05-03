@@ -55,9 +55,9 @@ Available as [eBook](https://vladmihalceastore.teachable.com/p/high-performance-
 
 | Course | Link |
 |--------|------|
-| **High-Performance JPA & Hibernate** | [inflearn.com](https://www.inflearn.com/en/course/vlad-high-performance-java-persistence) |
-| **High-Performance SQL for JPA (ORM) Developers** | [inflearn.com](https://www.inflearn.com/en/course/vlad-high-performance-sql) |
-| **High-Performance Spring Persistence** | [inflearn.com](https://www.inflearn.com/en/course/고성능-spring-persistence-vlad) |
+| **High-Performance Spring Persistence** | [고성능 Spring Persistence](https://www.inflearn.com/en/course/%EA%B3%A0%EC%84%B1%EB%8A%A5-spring-persistence-vlad?cid=339778) |
+| **High-Performance SQL for JPA (ORM) Developers** | [JPA (ORM) 개발자를 위한 고성능 SQL](https://www.inflearn.com/en/course/vlad-high-performance-sql?cid=336851) |
+| **High-Performance JPA & Hibernate** | [고성능 JPA & Hibernate](https://www.inflearn.com/en/course/vlad-high-performance-java-persistence?cid=336847) |
 
 ---
 
