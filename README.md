@@ -47,8 +47,7 @@ Available as [eBook](https://vladmihalceastore.teachable.com/p/high-performance-
 
 | Course | Content |
 |--------|---------|
-| [**High-Performance Spring Persistence**](https://vladmihalcea.com/courses/high-performance-spring-persistence/) | 42 videos · 6 hours and 29 minutes
- — Mapping, batching, fetching, testing, and logging best practices |
+| [**High-Performance Spring Persistence**](https://vladmihalcea.com/courses/high-performance-spring-persistence/) | 42 videos · 6 hours and 29 minutes — Logging, testing, mapping entities, identifiers, Persistence Context, batching, statement caching, and fetching best practices |
 | [**High-Performance Java Persistence**](https://vladmihalcea.com/courses/high-performance-java-persistence/) | 49 videos · 10h 40m — JDBC essentials, JPA & Hibernate mappings, batching, caching, transactions, and concurrency control |
 | [**High-Performance SQL**](https://vladmihalcea.com/courses/high-performance-sql/) | 67 videos · 7h 36m — Joins, subqueries, CTEs, window functions, pagination, execution plans, and transactions |
 
